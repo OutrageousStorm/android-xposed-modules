@@ -1,0 +1,32 @@
+[
+  {
+    "name": "PlayIntegrityFix",
+    "category": "security",
+    "stars": 3000,
+    "url": "https://github.com/chiteroman/PlayIntegrityFix"
+  },
+  {
+    "name": "TrickyStore",
+    "category": "security",
+    "stars": 2500,
+    "url": "https://github.com/5ec1cff/TrickyStore"
+  },
+  {
+    "name": "Hide My AppList",
+    "category": "privacy",
+    "stars": 2000,
+    "url": "https://github.com/Dr-TSNG/Hide-My-Applist"
+  },
+  {
+    "name": "Shamiko",
+    "category": "privacy",
+    "stars": 1500,
+    "url": "https://github.com/LSPosed/Shamiko"
+  },
+  {
+    "name": "Iconify",
+    "category": "ui",
+    "stars": 1800,
+    "url": "https://github.com/Mahmud0808/Iconify"
+  }
+]
